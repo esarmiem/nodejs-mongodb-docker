@@ -24,19 +24,19 @@ Para iniciar el proyecto en tu entorno local, sigue estos pasos:
 
 2. Clona este repositorio en tu máquina local.
 
-'git clone https://github.com/esarmiem/nodejs-mongodb-docker.git'
+`git clone https://github.com/esarmiem/nodejs-mongodb-docker.git`
 
 3. Ve al directorio del repositorio.
 
-'cd nodejs-mongodb-docker'
+`cd nodejs-mongodb-docker`
 
 4. Ejecuta el siguiente comando para construir la imagen Docker y crear los contenedores necesarios.
 
-'docker-compose up --build'
+`docker-compose up --build`
 
 5. Una vez que los contenedores estén en funcionamiento, puedes acceder a la aplicación en tu navegador web visitando 
 
-`http://localhost:3000`.
+`http://localhost:3000`
 
 
 ## By esarmiem dev 🤖
